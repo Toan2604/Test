@@ -1,0 +1,26 @@
+﻿{
+  "KpiGeneral": {
+    "Id": {
+      "IdNotExisted": "Kpi chung không tồn tại",
+      "ValueCannotBeNull": "Chỉ tiêu không thể bỏ trống"
+    },
+    "Organization": {
+      "OrganizationIdNotExisted": "Đơn vị tổ chức không tồn tại",
+      "OrganizationEmpty": "Chưa chọn đơn vị tổ chức"
+    },
+    "EmployeeIds": {
+      "EmployeeIdsEmpty": "Chưa chọn nhân viên",
+      "IdNotExisted": "Nhân viên không tồn tại"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "KpiYear": {
+      "KpiYearIdNotExisted": "Năm Kpi không tồn tại",
+      "KpiYearExisted": "Năm Kpi đã được đăng ký"
+    },
+    "KpiGeneralContents": {
+      "KpiGeneralContentFormIsWrong": "Gửi sai biểu mẫu kpiGeneralContentKpiPeriodMappings"
+    }
+  }
+}

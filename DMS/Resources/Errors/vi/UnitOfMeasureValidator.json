@@ -1,0 +1,23 @@
+﻿{
+  "UnitOfMeasure": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Code": {
+      "CodeExisted": "Mã đơn vị tính đã tồn tại",
+      "CodeEmpty": "Chưa nhập mã đơn vị tính",
+      "CodeOverLength": "Mã đơn vị tính quá dài",
+      "CodeHasSpecialCharacter": "Mã đơn vị tính không thể chứa khoảng trắng hoặc kí tự Tiếng Việt"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên đơn vị tính",
+      "NameOverLength": "Tên đơn vị tính quá dài"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "UnitOfMeasureID": {
+      "UnitOfMeasureInUsed": "Đơn vị tính đã được sử dụng"
+    }
+  }
+}

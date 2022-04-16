@@ -1,0 +1,25 @@
+﻿{
+  "UnitOfMeasureGrouping": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Code": {
+      "CodeExisted": "Mã nhóm đơn vị chuyển đổi đã tồn tại",
+      "CodeEmpty": "Chưa nhập mã nhóm đơn vị chuyển đổi",
+      "CodeOverLength": "Mã nhóm đơn vị chuyển đổi quá dài",
+      "CodeHasSpecialCharacter": "Mã nhóm đơn vị chuyển đổi không thể chứa khoảng trắng hoặc kí tự Tiếng Việt"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên nhóm đơn vị chuyển đổi",
+      "NameOverLength": "Tên nhóm đơn vị chuyển đổi quá dài"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "UnitOfMeasureId": {
+      "UnitOfMeasureEmpty": "Chưa chọn đơn vị tính",
+      "UnitOfMeasureNotExisted": "Đơn vị tính không tồn tại",
+      "UnitOfMeasureGroupingInUsed": "Nhóm đơn vị chuyển đổi đã được sử dụng"
+    }
+  }
+}

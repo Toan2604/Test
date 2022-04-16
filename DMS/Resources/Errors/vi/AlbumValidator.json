@@ -1,0 +1,15 @@
+﻿{
+  "Album": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "AlbumInUsed": "Album đã được sử dụng"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên Album ảnh",
+      "NameOverLength": "Tên Album ảnh quá dài"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    }
+  }
+}

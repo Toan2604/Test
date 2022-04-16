@@ -1,0 +1,161 @@
+﻿{
+  "informations": null,
+  "warnings": null,
+  "errors": {
+    "employee": "Nhân viên đã có Kpi",
+    "employeeIds": null
+  },
+  "id": 0,
+  "organizationId": 1,
+  "kpiYearId": 2021,
+  "kpiPeriodId": 108,
+  "kpiProductGroupingTypeId": 2,
+  "statusId": 1,
+  "employeeId": 0,
+  "creatorId": 0,
+  "rowId": "00000000-0000-0000-0000-000000000000",
+  "readOnly": false,
+  "currentMonth": null,
+  "currentQuarter": null,
+  "currentYear": null,
+  "creator": null,
+  "employee": null,
+  "kpiPeriod": {
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "id": 108,
+    "code": "M08",
+    "name": "Tháng 8",
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": []
+  },
+  "kpiYear": null,
+  "organization": null,
+  "kpiProductGroupingType": {
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "id": 2,
+    "code": "AllProductGrouping",
+    "name": "KPI nhóm sản phẩm trọng tâm",
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": []
+  },
+  "status": {
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "id": 1,
+    "code": "Active",
+    "name": "Hoạt động",
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": []
+  },
+  "createdAt": "0001-01-01T00:00:00.000Z",
+  "updatedAt": "0001-01-01T00:00:00.000Z",
+  "employees": [
+    {
+      "errors": null,
+      "informations": null,
+      "warnings": null,
+      "id": 42946,
+      "username": "NhungLe",
+      "displayName": "123456",
+      "address": null,
+      "email": "a141424242@gmail.com",
+      "phone": "231111",
+      "sexId": 0,
+      "birthday": null,
+      "avatar": null,
+      "positionId": 0,
+      "department": null,
+      "organizationId": 0,
+      "provinceId": 0,
+      "longitude": null,
+      "latitude": null,
+      "statusId": 0,
+      "gpsUpdatedAt": "0001-01-01T06:42:04+06:42",
+      "rowId": "00000000-0000-0000-0000-000000000000",
+      "generalInformations": [],
+      "generalWarnings": [],
+      "generalErrors": []
+    }
+  ],
+  "kpiProductGroupingContents": [
+    {
+      "informations": null,
+      "warnings": null,
+      "errors": null,
+      "id": 0,
+      "kpiProductGroupingId": 0,
+      "productGroupingId": 20127,
+      "rowId": "00000000-0000-0000-0000-000000000000",
+      "kpiProductGrouping": null,
+      "productGrouping": {
+        "informations": null,
+        "warnings": null,
+        "errors": null,
+        "id": 20127,
+        "code": "La",
+        "name": "Lá",
+        "parentId": null,
+        "path": "20127.",
+        "description": null,
+        "generalInformations": [],
+        "generalWarnings": [],
+        "generalErrors": []
+      },
+      "kpiProductGroupingContentCriteriaMappings": {
+        "2": 2000000,
+        "4": 12
+      },
+      "kpiProductGroupingContentItemMappings": [
+        {
+          "kpiProductGroupingContentId": 0,
+          "itemId": 2313,
+          "kpiProductGroupingContent": null,
+          "item": null
+        }
+      ],
+      "generalInformations": [],
+      "generalWarnings": [],
+      "generalErrors": [],
+      "key": "e4d5a9bb-d676-4134-9ad3-2fb64471905e",
+      "tableIndex": 0,
+      "indirectStore": 12,
+      "indirectRevenue": 2000000
+    }
+  ],
+  "kpiProductGroupingCriterias": [
+    {
+      "informations": null,
+      "warnings": null,
+      "errors": null,
+      "id": 4,
+      "code": "IndirectStore",
+      "name": "Số đại lý theo đơn gián tiếp",
+      "generalInformations": [],
+      "generalWarnings": [],
+      "generalErrors": []
+    },
+    {
+      "informations": null,
+      "warnings": null,
+      "errors": null,
+      "id": 2,
+      "code": "IndirectRevenue",
+      "name": "Doanh thu theo đơn hàng gián tiếp",
+      "generalInformations": [],
+      "generalWarnings": [],
+      "generalErrors": []
+    }
+  ],
+  "generalInformations": [],
+  "generalWarnings": [],
+  "generalErrors": [ "Nhân viên đã có Kpi" ],
+  "employeeIds": []
+}

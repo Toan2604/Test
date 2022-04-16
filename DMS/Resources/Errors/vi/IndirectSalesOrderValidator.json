@@ -1,0 +1,74 @@
+﻿{
+  "IndirectSalesOrder": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "ContentEmpty": "Chưa thêm sản phẩm"
+    },
+    "BuyerStore": {
+      "BuyerStoreNotExisted": "Đại lý mua không tồn tại",
+      "BuyerStoreEmpty": "Chưa chọn đại lý mua",
+      "BuyerStoreNotInERouteScope": "Đại lý mua không thuộc phạm vi đi tuyến của nhân viên kinh doanh",
+      "DraftStoreNotHavePermission": "Đại lý dự thảo không được phép tạo đơn hàng",
+      "BuyerStoreInActive": "Đại lý mua đã dừng hoạt động"
+    },
+    "SellerStore": {
+      "SellerStoreNotExisted": "Đại lý bán không tồn tại",
+      "SellerStoreEmpty": "Chưa chọn đại lý bán",
+      "SellerStoreEqualBuyerStore": "Đại lý mua trùng với đại lý bán",
+      "SellerStoreInActive": "Đại lý bán đã dừng hoạt động",
+      "SellerStoreAndBuyerStoreNotSameOrganization": "Đại lý bán không cùng đơn vị tổ chức với đại lý mua",
+      "SellerStoreNotOffical" : "Đại lý bán không phải cửa hàng chính thức"
+    },
+    "SaleEmployee": {
+      "SaleEmployeeNotExisted": "Nhân viên kinh doanh không tồn tại",
+      "SaleEmployeeEmpty": "Chưa chọn nhân viên kinh doanh",
+      "SaleEmployeeNotInOrg": "Nhân viên kinh doanh không thuộc đơn vị quản lý hiện tại"
+    },
+    "GeneralDiscountAmount": {
+      "DiscountOverPrice": "Chiết khấu vượt quá thành tiền"
+    },
+    "OrderDate": {
+      "OrderDateEmpty": "Chưa nhập ngày đặt hàng"
+    },
+    "DeliveryDate": {
+      "DeliveryDateInvalid": "Ngày giao hàng không hợp lệ"
+    },
+    "EditedPriceStatus": {
+      "EditedPriceStatusNotExisted": "Trạng thái sửa giá không tồn tại"
+    },
+    "IndirectSalesOrderContent": {
+      "Item": {
+        "ItemNotExisted": "Phiên bản sản phẩm không tồn tại",
+        "ItemInActive" : "Sản phẩm đã dừng hoạt động"
+      },
+      "DiscountAmount": {
+        "DiscountOverPrice": "Chiết khấu vượt quá thành tiền"
+      },
+      "Quantity": {
+        "QuantityEmpty": "Chưa nhập số lượng",
+        "QuantityInvalid": "Số lượng không hợp lệ"
+      },
+      "UnitOfMeasure": {
+        "UnitOfMeasureNotExisted": "Đơn vị tính không tồn tại",
+        "UnitOfMeasureEmpty": "Chưa chọn đơn vị tính",
+        "UnitOfMeasureNotMatching": "Đơn vị tính không đúng đơn vị bán của sản phẩm"
+      },
+      "SalePrice": {
+        "PriceOutOfRange": "Giá tiền ngoài khoảng cho phép"
+      }
+    },
+    "IndirectSalesOrderPromotion": {
+      "UnitOfMeasure": {
+        "UnitOfMeasureNotExisted": "Đơn vị tính không tồn tại",
+        "UnitOfMeasureEmpty": "Chưa chọn đơn vị tính"
+      },
+      "Quantity": {
+        "QuantityEmpty": "Chưa nhập số lượng",
+        "QuantityInvalid": "Số lượng không hợp lệ"
+      }
+    },
+    "SubTotal": {
+      "PriceIsZero": "Tổng giá trị đơn hàng phải lớn hơn 0"
+    }
+  }
+}

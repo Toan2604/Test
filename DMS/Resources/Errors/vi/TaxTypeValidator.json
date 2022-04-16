@@ -1,0 +1,17 @@
+﻿{
+  "TaxType": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "TaxTypeInUsed": "Loại thuế đã được sử dụng"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập mã thuế",
+      "CodeExisted": "Mã thuế đã tồn tại",
+      "CodeHasSpecialCharacter": "Mã thuế không thể chứa khoảng trắng hoặc kí tự Tiếng Việt"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên thuế",
+      "NameOverLength": "Tên thuế quá dài"
+    }
+  }
+}

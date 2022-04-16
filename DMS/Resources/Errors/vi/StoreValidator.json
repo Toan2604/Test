@@ -1,0 +1,136 @@
+﻿{
+  "Store": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "StoreInUsed": "Đại lý đã được sử dụng không thể xoá"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập mã đại lý",
+      "CodeHasSpecialCharacter": "Mã đại lý không thể chứa khoảng trắng hoặc kí tự Tiếng Việt",
+      "CodeExisted": "Mã đại lý đã tồn tại",
+      "CodeNotExisted": "Mã đại lý không tồn tại hoặc đã dừng hoạt động"
+    },
+    "CodeDraft": {
+      "CodeDraftHasSpecialCharacter": "Mã đại lý tự nhập không thể chứa khoảng trắng hoặc kí tự Tiếng Việt",
+      "CodeDraftExisted": "Mã đại lý tự nhập đã tồn tại"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên đại lý",
+      "NameOverLength": "Tên đại lý quá dài"
+    },
+    "OrganizationId": {
+      "OrganizationNotExisted": "Đơn vị tổ chức không tồn tại",
+      "OrganizationEmpty": "Chưa nhập đơn vị tổ chức"
+    },
+    "Organization": {
+      "OrganizationNotExisted": "Đơn vị tổ chức không tồn tại",
+      "OrganizationEmpty": "Chưa nhập đơn vị tổ chức"
+    },
+    "CreatorId": {
+      "CreatorNotExisted": "Người tạo không tồn tại",
+      "CreatorEmpty": "Chưa nhập người tạo đại lý",
+      "CreatorNotActive": "Người tạo đã dừng hoạt động"
+    },
+    "ParentStoreId": {
+      "ParentStoreNotExisted": "Cừa hàng cấp cha không tồn tại",
+      "StoreHasChild": "đại lý đã có đại lý cấp con"
+    },
+    "StoreTypeId": {
+      "StoreTypeEmpty": "Chưa chọn loại đại lý",
+      "StoreTypeNotExisted": "Loại đại lý không tồn tại"
+    },
+    "StoreType": {
+      "StoreTypeEmpty": "Chưa chọn loại đại lý",
+      "StoreTypeNotExisted": "Loại đại lý không tồn tại"
+    },
+    "StoreGroupingId": {
+      "StoreGroupingNotExisted": "Nhóm đại lý không tồn tại"
+    },
+    "StoreGrouping": {
+      "StoreGroupingNotExisted": "Nhóm đại lý không tồn tại"
+    },
+    "Telephone": {
+      "TelephoneOverLength": "Số điện thoại quá dài"
+    },
+    "ResellerId": {
+      "ResellerNotExisted": "Người bán không tồn tại"
+    },
+    "ProvinceId": {
+      "ProvinceNotExisted": "Tỉnh thành không tồn tại"
+    },
+    "Province": {
+      "ProvinceNotExisted": "Tỉnh thành không tồn tại"
+    },
+    "DistrictId": {
+      "DistrictNotExisted": "Quận huyện không tồn tại"
+    },
+    "District": {
+      "DistrictNotExisted": "Quận huyện không tồn tại"
+    },
+    "WardId": {
+      "WardNotExisted": "Thị xã không tồn tại"
+    },
+    "Ward": {
+      "WardNotExisted": "Thị xã không tồn tại"
+    },
+    "DeliveryAddress": {
+      "DeliveryAddressOverLength": "Tên địa chỉ giao hàng quá dài"
+    },
+    "Address": {
+      "AddressEmpty": "Chưa nhập địa chỉ",
+      "AddressOverLength": "Tên địa chỉ quá dài"
+    },
+    "Longitude": {
+      "LongitudeInvalid": "Kinh độ không hợp lệ",
+      "LocationEmpty": "Chưa lấy vị trí cửa hàng"
+    },
+    "Latitude": {
+      "LatitudeInvalid": "Vĩ độ không hợp lệ",
+      "LocationEmpty": "Chưa lấy vị trí cửa hàng"
+    },
+    "OwnerName": {
+      "OwnerNameEmpty": "Chưa nhập tên chủ đại lý",
+      "OwnerNameOverLength": "Tên chủ đại lý quá dài"
+    },
+    "OwnerPhone": {
+      "OwnerPhoneEmpty": "Chưa nhập số điện thoại chủ đại lý",
+      "OwnerPhoneOverLength": "Số điện thoại quá dài"
+    },
+    "OwnerEmail": {
+      "OwnerEmailInvalid": "Email không hợp lệ",
+      "OwnerEmailOverLength": "Email quá dài"
+    },
+    "TaxCode": {
+      "TaxCodeHasSpecialCharacter": "Mã thuế chứa kí tự đặc biệt"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "StoreStatus": {
+      "StoreStatusNotSelected": "Trạng thái duyệt chưa được chọn",
+      "StoreStatusNotExisted": "Trạng thái duyệt không tồn tại"
+    },
+    "StoreScouting": {
+      "StoreScoutingHasOpened": "Đại lý cắm cờ đã được mở",
+      "StoreScoutingHasRejected": "Đại lý cắm cờ bị từ chối"
+    },
+    "BrandInStores": {
+      "Top2Invalid": "Chưa nhập thứ hạng 2 ",
+      "Top3Invalid": "Chưa nhập thứ hạng 3 ",
+      "Top4Invalid": "Chưa nhập thứ hạng 4 ",
+      "TopStartInvalid": "Thứ hạng phải bắt đầu từ 1 và liên tiếp"
+    },
+    "BrandInStore": {
+      "Brand": {
+        "BrandEmpty": "Chưa chọn hãng",
+        "BrandNotExisted": "Hãng không tồn tại"
+      },
+      "Top": {
+        "TopInvalid": "Thứ hạng không hợp lệ"
+      },
+      "BrandInStoreProductGroupingMappings": {
+        "ProductGroupingEmpty": "Chưa chọn nhóm sản phẩm"
+      }
+    }
+    }
+  }

@@ -1,0 +1,24 @@
+{
+  "LuckyDrawWinner": {
+    "Id": {
+    },
+    "LuckyDrawId": {
+    },
+    "LuckyDrawStructureId": {
+    },
+    "AppUserId": {
+    },
+    "AppUser": {
+      "AppUserEmpty": "Chưa chọn @AppUser",
+      "AppUserNotExisted": "@AppUser không tồn tại"
+    },
+    "LuckyDraw": {
+      "LuckyDrawEmpty": "Chưa chọn @LuckyDraw",
+      "LuckyDrawNotExisted": "@LuckyDraw không tồn tại"
+    },
+    "LuckyDrawStructure": {
+      "LuckyDrawStructureEmpty": "Chưa chọn @LuckyDrawStructure",
+      "LuckyDrawStructureNotExisted": "@LuckyDrawStructure không tồn tại"
+    }
+  }
+}

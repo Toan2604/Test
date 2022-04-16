@@ -1,0 +1,60 @@
+﻿{
+  "PromotionCode": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "PromotionCodeInUsed": "Mã khuyến mại đã được sử dụng không thể xoá"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên",
+      "NameOverLength": "Tên quá dài"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập mã khuyến mại",
+      "CodeOverLength": "Mã khuyến mại quá dài",
+      "CodeHasSpecialCharacter": "Mã khuyến mại chứa kí tự đặc biệt"
+    },
+    "Organization": {
+      "OrganizationNotExisted": "Đơn vị tổ chức không tồn tại",
+      "OrganizationEmpty": "Chưa chọn đơn vị tổ chức"
+    },
+    "StartDate": {
+      "StartDateEmpty": "Chưa nhập ngày bắt đầu"
+    },
+    "EndDate": {
+      "EndDateWrong": "Ngày kết thúc không hợp lệ"
+    },
+    "PromotionType": {
+      "PromotionTypeNotExisted": "Đại lý áp dụng không tồn tại",
+      "PromotionTypeEmpty": "Chưa chọn đại lý áp dụng"
+    },
+    "PromotionDiscountType": {
+      "PromotionDiscountTypeNotExisted": "Loại giảm giá không tồn tại",
+      "PromotionDiscountTypeEmpty": "Chưa chọn loại giảm giá"
+    },
+    "Value": {
+      "ValueEmpty": "Chưa nhập giá trị"
+    },
+    "PromotionProductAppliedType": {
+      "PromotionProductAppliedTypeNotExisted": "Sản phẩm áp dụng không tồn tại",
+      "PromotionProductAppliedTypeEmpty": "Chưa chọn sản phẩm áp dụng"
+    },
+    "PromotionCodeProductMapping": {
+      "Product": {
+        "ProductNotExisted": "Sản phẩm không tồn tại"
+      }
+    },
+    "PromotionCodeOrganizationMapping": {
+      "Organization": {
+        "OrganizationNotExisted": "Đơn vị tổ chức không tồn tại"
+      }
+    },
+    "PromotionCodeStoreMapping": {
+      "Store": {
+        "StoreNotExisted": "Đại lý không tồn tại"
+      }
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    }
+  }
+}

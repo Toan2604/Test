@@ -1,0 +1,22 @@
+﻿{
+  "ShowingCategory": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "ShowingCategoryInUsed": "Danh mục sản phẩm trưng bày đã được sử dụng"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên danh mục sản phẩm trưng bày",
+      "NameOverLength": "Tên danh mục sản phẩm trưng bày quá dài",
+      "NameExisted": "Tên danh mục sản phẩm trưng bày đã tồn tại"
+    },
+    "Code": {
+      "CodeExisted": "Mã danh mục sản phẩm trưng bày đã tồn tại",
+      "CodeEmpty": "Chưa nhập mã danh mục sản phẩm trưng bày",
+      "CodeOverLength": "Mã danh mục sản phẩm trưng bày quá dài",
+      "CodeHasSpecialCharacter": "Mã danh mục sản phẩm trưng bày không thể chứa khoảng trắng hoặc kí tự Tiếng Việt"
+    },
+    "ParentId": {
+      "ParentNotExisted": "Danh mục sản phẩm trưng bày cấp cha không tồn tại"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+﻿{
+  "ShowingItem": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Code": {
+      "CodeExisted": "Mã sản phẩm đã tồn tại",
+      "CodeEmpty": "Chưa nhập mã sản phẩm",
+      "CodeOverLength": "Mã sản phẩm quá dài",
+      "CodeHasSpecialCharacter": "Mã sản phẩm không thể chứa khoảng trắng hoặc kí tự Tiếng Việt",
+      "CodeRuleNotExisted": "Quy tắc sinh mã không tồn tại"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên sản phẩm",
+      "NameOverLength": "Tên sản phẩm quá dài",
+      "NameExisted": "Tên sản phẩm đã tồn tại"
+    },
+    "ShowingCategory": {
+      "ShowingCategoryEmpty": "Chưa chọn loại danh mục sản phẩm",
+      "ShowingCategoryNotExisted": "Danh mục sản phẩm không tồn tại",
+      "ShowingCategoryInvalid": "Danh mục sản phẩm không đúng (không được chọn lớp cha)"
+    },
+    "UnitOfMeasure": {
+      "UnitOfMeasureNotExisted": "Đơn vị tính không tồn tại",
+      "UnitOfMeasureEmpty": "Chưa chọn đơn vị tính "
+    },
+    "SalePrice": {
+      "SalePriceInvalid": "Giá bán không hợp lệ",
+      "SalePriceEmpty": "Chưa nhập giá bán"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    }
+  }
+}

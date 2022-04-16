@@ -1,0 +1,29 @@
+﻿{
+  "Permission": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập mã quyền",
+      "CodeOverLength": "Mã quyền quá dài",
+      "CodeExisted": "Mã quyền đã được sử dụng",
+      "CodeHasSpecialCharacter": "Mã quyền không thể chứa khoảng trắng hoặc kí tự Tiếng Việt"
+    },
+    "Name": {
+      "NameExisted": "Tên quyền đã tồn tại",
+      "NameEmpty": "Chưa nhập tên quyền",
+      "NameOverLength": "Tên quyền quá dài"
+    },
+    "Status": {
+      "StatusNotExisted": "Chưa chọn trạng thái"
+    },
+    "PermissionContent": {
+      "Field": {
+        "FieldNotExisted": "Trường dữ liệu không tồn tại"
+      },
+      "PermissionOperator": {
+        "PermissionOperatorNotExisted": "Phép toán điều kiện không tồn tại"
+      }
+    }
+  }
+}

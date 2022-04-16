@@ -1,0 +1,54 @@
+﻿{
+  "PriceList": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập mã bảng giá",
+      "CodeHasSpecialCharacter": "Mã bảng giá không thể chứa khoảng trắng hoặc kí tự Tiếng Việt",
+      "CodeExisted": "Mã bảng giá đã tồn tại"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên bảng giá",
+      "NameOverLength": "Tên bảng giá quá dài"
+    },
+    "EndDate": {
+      "EndDateInvalid": "Ngày kết thúc không hợp lệ"
+    },
+    "Organization": {
+      "OrganizationNotExisted": "Đơn vị tổ chức không tồn tại",
+      "OrganizationEmpty": "Chưa nhập đơn vị tổ chức"
+    },
+    "PriceListType": {
+      "PriceListTypeEmpty": "Chưa chọn đối tượng áp dụng",
+      "PriceListTypeNotExisted": "Đối tượng áp dụng không tồn tại"
+    },
+    "SalesOrderType": {
+      "SalesOrderTypeEmpty": "Chưa chọn loại đơn hàng",
+      "SalesOrderTypeNotExisted": "Loại đơn hàng không tồn tại"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "PriceListItemMapping": {
+      "Item": {
+        "ItemNotExisted": "Sản phẩm không tồn tại"
+      }
+    },
+    "PriceListStoreMapping": {
+      "Store": {
+        "StoreNotExisted": "Đại lý không tồn tại"
+      }
+    },
+    "PriceListStoreTypeMapping": {
+      "StoreType": {
+        "StoreTypeNotExisted": "Loại đại lý không tồn tại"
+      }
+    },
+    "PriceListStoreGroupingMapping": {
+      "StoreGrouping": {
+        "StoreGroupingNotExisted": "Nhóm đại lý không tồn tại"
+      }
+    }
+  }
+}

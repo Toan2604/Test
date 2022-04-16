@@ -1,0 +1,50 @@
+﻿{
+  "KpiProductGrouping": {
+    "Id": {
+      "IdNotExisted": "Kpi nhóm sản phẩm không tồn tại",
+      "ValueCannotBeNull": "Chưa nhập giá trị chỉ tiêu KPI"
+    },
+    "Employees": {
+      "EmployeesEmpty": "Chưa chọn nhân viên"
+    },
+    "Organization": {
+      "OrganizationEmpty": "Chưa chọn đơn vị tổ chức",
+      "OrganizationIdNotExisted": "Đơn vị tổ chức không tồn tại"
+    },
+    "KpiYear": {
+      "KpiYearIdNotExisted": "Năm Kpi không tồn tại",
+      "KpiYearAndKpiPeriodMustInTheFuture": "Không thể chọn thời gian trong quá khứ"
+    },
+    "Employee": {
+      "EmployeeHasKpi": "Nhân viên đã có Kpi"
+    },
+    "KpiPeriod": {
+      "KpiPeriodIdNotExisted": "Kì Kpi không tồn tại"
+    },
+    "KpiProductGroupingType": {
+      "KpiProductGroupingTypeIdNotExisted": "Chưa chọn loại Kpi"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "ProductGrouping": {
+      "ProductGroupingEmpty": "Chưa chọn nhóm sản phẩm",
+      "ProductGroupingNotExisted": "Nhóm sản phẩm không tồn tại"
+    },
+    "KpiProductGroupingContent": {
+      "ProductGrouping": {
+        "ProductGroupingEmpty": "Chưa chọn nhóm sản phẩm",
+        "ProductGroupingNotExisted": "Nhóm sản phẩm không tồn tại"
+      },
+      "KpiProductGroupingContentCriteriaMappings": {
+      },
+      "KpiProductGroupingContentItemMappings": {
+        "ItemEmpty": "Chưa chọn sản phẩm",
+        "ItemNotExisted": "Sản phẩm không tồn tại"
+      }
+    },
+    "KpiProductGroupingContents": {
+      "KpiProductGroupingContentsEmpty": "Chưa nhập nội dung KPI"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+﻿{
+  "id":  107,
+  "code": "BDD2222",
+  "name": "chương trình test BDD2222",
+  "luckyDrawTypeId": 1,
+  "organizationId": 214,
+  "organization": {
+    "skip": 0,
+    "take": 10,
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "id": 214,
+    "code": "TV01",
+    "name": "Truyền thống Vùng 1",
+    "parentId": 213,
+    "path": "1.213.214.",
+    "level": 3,
+    "statusId": 1,
+    "phone": "0122457864",
+    "email": "tv01@rangdong.com.vn",
+    "address": "Số 87-89 Hạ Đình, Thanh xuân, Hà Nội",
+    "isDisplay": true,
+    "rowId": "79b0b4e8-6101-43b7-a905-33be8d29b05a",
+    "createdAt": "2020-07-06T18:15:29+07:00",
+    "updatedAt": "2021-05-14T21:16:46+07:00",
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": [],
+    "children": []
+  },
+  "revenuePerTurn": 50000000,
+  "startAt": "2021-11-30T15:52:18+07:00",
+  "endAt": "2022-03-02T23:59:59+07:00",
+  "imageId": 17,
+  "statusId": 1,
+  "avatarImageId": 17,
+  "avatarImage": {
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "id": 17,
+    "name": "nhat_cay-1595747664059.jpg",
+    "url": "/rpc/utils/file/download/lucky-draw/images/20210830/1277c6f8-1474-4147-9a90-d8294db0b206.jpg",
+    "thumbnailUrl": null,
+    "rowId": "00000000-0000-0000-0000-000000000000",
+    "createdAt": "0001-01-01T07:06:40+07:06",
+    "updatedAt": "0001-01-01T07:06:40+07:06",
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": []
+  },
+  "image": {
+    "id": 17,
+    "name": "clo.jpg",
+    "url": "/rpc/utils/file/download/lucky-draw/images/20210830/36ee32e9-43b6-4b0c-8221-4ba734ccb4b6.jpg",
+    "thumbnailUrl": null,
+    "rowId": "00000000-0000-0000-0000-000000000000"
+  },
+  "description": "<p>chương tr&igrave;nh test BDD</p>",
+  "luckyDrawStoreGroupingMappings": [],
+  "luckyDrawStoreMappings": [],
+  "luckyDrawStoreTypeMappings": [],
+  "luckyDrawStructures": [
+    {
+      "errors": {
+        "name": null,
+        "value": null,
+        "quantity": null
+      },
+      "key": "6e57a786-8f16-4054-8b22-e7d5b4dcfcb1",
+      "tableIndex": 0,
+      "name": "Giải nhất",
+      "value": "100000000",
+      "quantity": 1,
+      "luckyDrawWinners": []
+    },
+    {
+      "errors": {
+        "name": null,
+        "value": null,
+        "quantity": null
+      },
+      "key": "8c21e897-eb2b-4fe8-a6dc-41a5475b5590",
+      "tableIndex": 1,
+      "name": "Giải Nhì",
+      "value": "Xe máy Honda",
+      "quantity": 5,
+      "luckyDrawWinners": []
+    }
+  ],
+  "luckyDrawWinners": []
+}

@@ -1,0 +1,39 @@
+﻿{
+  "ShowingOrderWithDraw": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Date": {
+      "DateEmpty": "Chưa chọn ngày cấp"
+    },
+    "Organization": {
+      "OrganizationEmpty": "Chưa chọn đơn vị tổ chức",
+      "OrganizationNotExisted": "Đơn vị tổ chức không tồn tại"
+    },
+    "Stores": {
+      "StoresEmpty": "Chưa chọn đại lý"
+    },
+    "Store": {
+      "Id": {
+        "IdNotExisted": "Id không tồn tại"
+      }
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "ShowingOrderContentWithDraws": {
+      "ContentEmpty": "Chưa chọn sản phẩm trưng bày"
+    },
+    "ShowingOrderContentWithDraw": {
+      "Quantity": {
+        "QuantityEmpty": "Chưa nhập số lượng"
+      },
+      "ShowingItem": {
+        "ShowingItemNotExisted": "Sản phẩm trưng bày không tồn tại",
+        "SaleStock": {
+          "SaleStockEmpty": "Tồn kho sản phẩm không đủ"
+        }
+      }
+    }
+  }
+}

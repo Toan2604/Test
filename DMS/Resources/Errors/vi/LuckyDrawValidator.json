@@ -1,0 +1,86 @@
+{
+  "LuckyDraw": {
+    "Id": {
+      "IdNotExisted": "Chương trình quay thưởng không tồn tại",
+      "LuckyDrawStructuresEmpty": "Cơ cấu giải thưởng bắt buộc phải nhập",
+      "PrizeOver": "Giải thưởng của chương trình đã được trao hết",
+      "StoreNotInScoped": "Bạn không có lượt quay cho đại lý này",
+      "MustDrawnByStore": "Lượt quay đã được chuyển cho đại lý tự quay",
+      "StoreOverTurn":  "Đại lý đã hết lượt quay"
+    },
+    "Code": {
+        "CodeEmpty": "Chưa nhập mã chương trình quay thưởng",
+        "CodeHasSpecialCharacter": "Mã chương trình quay thưởng không được chứa khoảng trống hoặc ký tự đặc biệt",
+        "CodeExisted":  "Mã chương trình quay thưởng đã tồn tại"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên chương trình quay thưởng"
+    },
+    "LuckyDrawType": {
+      "LuckyDrawTypeEmpty": "Chưa chọn đối tượng áp dụng",
+      "LuckyDrawTypeNotExisted": "Đối tượng áp dụng không đúng",
+      "LuckyDrawUsed":  "Không thể thay đổi đối tượng áp dụng"
+    },
+    "Organization": {
+        "OrganizationEmpty": "Đơn vị quản lý chưa được chọn",
+        "OrganizationNotExisted":  "Đơn vị quản lý không tồn tại"
+    },
+    "Description": {
+        "DescriptionEmpty":  "Thể lệ chương trình không được để trống"
+    },
+    "RevenuePerTurn": {
+        "RevenuePerTurnInvalid":  "Doanh thu theo lượt bắt buộc phải nhập số dương"
+    },
+    "StartAt": {
+      "StartAtEmpty": "Chưa nhập thời gian bắt đầu chương trình",
+      "StartAtInvalid": "Thời gian bắt đầu chương trình không được là ngày trong quá khứ"
+    },
+    "EndAt": {
+        "EndAtEmpty": "Chưa nhập thời gian kết thúc chương trình",
+        "EndAtInvalid": "Thời gian kết thúc chương trình phải lớn hơn ngày bắt đầu chương trình"
+    },
+    "AvatarImage": {
+        "AvatarImageEmpty": "Ảnh đại diện chương trình chưa được chọn",
+        "AvatarImageNotExisted": "Ảnh đại diện không tồn tại"
+    },
+    "Image": {
+      "ImageEmpty": "Ảnh vòng quay chưa được chọn",
+      "ImageNotExisted": "Ảnh vòng quay không tồn tại"
+    },
+    "Status": {
+      "StatusEmpty": "Chưa chọn trạng thái",
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "LuckyDrawStoreGroupingMappings": {
+      "LuckyDrawUsed": "Không thể thay đổi đối tượng áp dụng",
+      "StoreGrouping": {
+        "LuckyDrawStoreGroupingMapping_StoreGroupingEmpty": "Chưa chọn đối tượng Nhóm đại lý áp dụng",
+        "LuckyDrawStoreGroupingMapping_StoreGroupingNotExisted": "Nhóm đại lý không tồn tại"
+      }
+    },
+    "LuckyDrawStoreMappings": {
+      "LuckyDrawStoreMapping_StoreEmpty": "Chưa chọn đối tượng Đại lý áp dụng",
+      "LuckyDrawStoreMapping_StoreNotExisted": "Đại lý không tồn tại",
+      "LuckyDrawUsed":  "Không thể thay đổi đối tượng áp dụng"
+    },
+    "LuckyDrawStoreTypeMappings": {
+      "LuckyDrawUsed": "Không thể thay đổi đối tượng áp dụng",
+      "StoreType": {
+        "LuckyDrawStoreTypeMapping_StoreTypeEmpty": "Chưa chọn đối tượng Loại đại lý áp dụng",
+        "LuckyDrawStoreTypeMapping_StoreTypeNotExisted": "Loại đại lý không tồn tại"
+      }
+    },
+    "LuckyDrawStructure": {
+      "LuckyDrawUsed": "Chương trình đã quay thưởng không thể thay đổi cơ cấu giải thưởng",
+      "Quantity": {
+        "LuckyDrawStructure_QuantityInvalid": "Số lượng giải thưởng chưa được nhập"
+      },
+      "Name": {
+        "LuckyDrawStructure_NameEmpty": "Chưa nhập tên cơ cấu giải thưởng"
+      },
+      "Value": {
+        "LuckyDrawStructure_ValueEmpty": "Chưa nhập giá trị giải thưởng"
+      }
+    }
+  }
+}

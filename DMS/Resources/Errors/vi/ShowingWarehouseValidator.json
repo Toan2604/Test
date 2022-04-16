@@ -1,0 +1,37 @@
+﻿{
+  "ShowingWarehouse": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "ShowingWarehouseHasShowingInventory": "Kho đã có sản phẩm tồn kho"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập mã kho",
+      "CodeOverLength": "Mã kho quá dài",
+      "CodeHasSpecialCharacter": "Mã kho không thể chứa khoảng trắng hoặc kí tự Tiếng Việt",
+      "CodeExisted":  "Mã kho đã tồn tại"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên kho",
+      "NameOverLength": "Tên kho quá dài"
+    },
+    "Address": {
+      "AddressOverLength": "Địa chỉ quá dài"
+    },
+    "Organization": {
+      "OrganizationNotExisted": "Đơn vị tổ chức không tồn tại",
+      "OrganizationEmpty": "Chưa chọn đơn vị tổ chức"
+    },
+    "District": {
+      "DistrictNotExisted": "Quận/ Huyện không tồn tại"
+    },
+    "Province": {
+      "ProvinceNotExisted": "Tỉnh/Thành phố không tồn tại"
+    },
+    "Ward": {
+      "WardNotExisted": "Xã không tồn tại"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    }
+  }
+}

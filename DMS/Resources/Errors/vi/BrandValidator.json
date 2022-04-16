@@ -1,0 +1,23 @@
+﻿{
+  "Brand": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "BrandInUsed": "Brand đang hoạt động"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập mã nhãn hiệu",
+      "CodeHasSpecialCharacter": "Mã nhãn hiệu không thể chứa khoảng trắng hoặc ký tự Tiếng Việt",
+      "CodeExisted": "Mã nhãn hiệu đã tồn tại"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên nhãn hiệu",
+      "NameOverLength": "Tên nhãn hiệu quá dài"
+    },
+    "Description": {
+      "DescriptionOverLength": "Mô tả quá dài"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tài"
+    }
+  }
+}

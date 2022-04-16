@@ -1,0 +1,50 @@
+﻿{
+  "ERoute": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "ERouteInUsed": "Tuyến đã được sử dụng"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập mã tuyến",
+      "CodeOverLength": "Mã tuyến quá dài",
+      "CodeHasSpecialCharacter": "Mã tuyến không thể chứa khoảng trắng hoặc ký tự Tiếng Việt",
+      "CodeExisted": "Mã tuyến đã tồn tại"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên tuyến",
+      "NameOverLength": "Tên tuyến quá dài"
+    },
+    "Organization": {
+      "OrganizationInvalid": "Nhân viên không thuộc đơn vị tổ chức hiện tại"
+    },
+    "SaleEmployee": {
+      "SaleEmployeeNotExisted": "Nhân viên kinh doanh không tồn tại",
+      "SaleEmployeeEmpty": "Chưa chọn nhân viên kinh doanh"
+    },
+    "ERouteType": {
+      "ERouteTypeEmpty": "Chưa chọn loại tuyến"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "StartDate": {
+      "StartDateEmpty": "Chưa nhập ngày bắt đầu"
+    },
+    "EndDate": {
+      "EndDateEmpty": "Chưa nhập ngày kết thúc",
+      "EndDateWrong": "Ngày kết thúc không hợp lệ"
+    },
+    "ERouteContents": {
+      "ERouteContentsEmpty": "Chưa tạo nội dung cho tuyến"
+    },
+    "ERouteContent": {
+      "Store": {
+        "StoreEmpty": "Chưa chọn đại lý",
+        "StoreNotInERouteScope": "Đại lý không thuộc phạm vi đi tuyến của nhân viên"
+      },
+      "Id": {
+        "PlannedEmpty": "Chưa lập lịch đi tuyến cho cửa hàng"
+      }
+    }
+  }
+}

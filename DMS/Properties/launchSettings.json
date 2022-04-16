@@ -1,0 +1,56 @@
+{
+  "profiles": {
+    "Development": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "launchUrl": "rpc/dms/swagger/index.html",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5003"
+    },
+    "ThangLD19": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "launchUrl": "rpc/dms/swagger/index.html",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "ThangLD19"
+      },
+      "applicationUrl": "http://localhost:5003"
+    },
+    "Staging": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "launchUrl": "rpc/dms/swagger/index.html",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Staging"
+      },
+      "applicationUrl": "http://localhost:5003"
+    },
+    "Fast": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "launchUrl": "rpc/dms/swagger/index.html",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Fast"
+      },
+      "applicationUrl": "http://localhost:5003"
+    },
+    "Production": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "rpc/dms/swagger/index.html",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Production"
+      },
+      "applicationUrl": "http://localhost:5003"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchBrowser": true,
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/account/login",
+      "publishAllPorts": true,
+      "useSSL": true
+    }
+  }
+}

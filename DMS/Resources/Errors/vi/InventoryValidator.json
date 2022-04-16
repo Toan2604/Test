@@ -1,0 +1,22 @@
+{
+  "Inventory": {
+    "Id": {
+    },
+    "WarehouseId": {
+    },
+    "ItemId": {
+    },
+    "SaleStock": {
+    },
+    "AccountingStock": {
+    },
+    "Item": {
+      "ItemEmpty": "Chưa chọn vật tư",
+      "ItemNotExisted": "Vật tư không tồn tại"
+    },
+    "Warehouse": {
+      "WarehouseEmpty": "Chưa chọn kho",
+      "WarehouseNotExisted": "Kho không tồn tại"
+    }
+  }
+}

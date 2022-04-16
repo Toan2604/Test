@@ -1,0 +1,22 @@
+﻿{
+  "StoreType": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "StoreTypeInUsed": "Loại đại lý đã được sử dụng"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên loại đại lý",
+      "NameOverLength": "Tên loại đại lý quá dài",
+      "NameExisted": "Tên loại đại lý đã tồn tại"
+    },
+    "Code": {
+      "CodeExisted": "Mã loại đại lý đã tồn tại",
+      "CodeEmpty": "Chưa nhập mã loại đại lý",
+      "CodeOverLength": "Mã loại đại lý quá dài",
+      "CodeHasSpecialCharacter": "Mã loại đại lý chứa kí tự đặc biệt"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    }
+  }
+}

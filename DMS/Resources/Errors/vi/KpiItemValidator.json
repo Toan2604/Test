@@ -1,0 +1,43 @@
+﻿{
+  "KpiItem": {
+    "Id": {
+      "IdNotExisted": "Kpi chung không tồn tại",
+      "ValueCannotBeNull": "Chỉ tiêu không thể bỏ trống"
+    },
+    "Organization": {
+      "OrganizationIdNotExisted": "Đơn vị tổ chức không tồn tại",
+      "OrganizationEmpty": "Chưa chọn đơn vị tổ chức"
+    },
+    "Employees": {
+      "EmployeesEmpty": "Chưa chọn nhân viên",
+      "IdNotExisted": "Nhân viên không tồn tại"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "KpiYear": {
+      "KpiYearIdNotExisted": "Năm Kpi không tồn tại",
+      "KpiYearExisted": "Chưa chọn năm Kpi",
+      "KpiYearAndKpiPeriodMustInTheFuture": "Không thể chọn thời gian trong quá khứ"
+    },
+    "KpiPeriod": {
+      "KpiPeriodIdNotExisted": "Kì Kpi không tồn tại"
+    },
+    "KpiItemType": {
+      "KpiItemTypeIdNotExisted": "Chưa chọn loại Kpi"
+    },
+    "KpiItemContents": {
+      "KpiItemContentsEmpty": "Chưa chọn sản phẩm kpi",
+      "ItemIdNotExisted": "Chưa chọn sản phẩm"
+    },
+    "KpiItemContent": {
+      "ItemNotExisted": "Sản phẩm không tồn tại",
+      "ItemIsNotNew": "Sản phẩm này không phải sản phẩm mới"
+    },
+    "Employee": {
+      "Id": {
+        "EmployeeHasKpi": "Nhân viên đã có KPI cùng loại"
+      }
+    }
+  }
+}

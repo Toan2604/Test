@@ -1,0 +1,13 @@
+﻿{
+  "RewardHistory": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "LuckyNumberGroupingEmpty": "Chưa có giải thưởng",
+      "LuckyNumberEmpty": "Đã hết giải thưởng"
+    },
+    "Revenue": {
+      "RevenueEmpty": "Chưa nhập doanh thu",
+      "RevenueNotEnough": "Chưa đạt doanh thu tối thiểu"
+    }
+  }
+}

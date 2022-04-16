@@ -1,0 +1,25 @@
+﻿{
+  "StoreGrouping": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "StoreGroupingInUsed": "Nhóm đại lý đã được sử dụng"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên nhóm đại lý",
+      "NameOverLength": "Tên nhóm đại lý quá dài",
+      "NameExisted": "Tên nhóm đại lý đã tồn tại"
+    },
+    "Code": {
+      "CodeExisted": "Mã nhóm đại lý đã tồn tại",
+      "CodeEmpty": "Chưa nhập mã nhóm đại lý",
+      "CodeOverLength": "Mã nhóm đại lý quá dài",
+      "CodeHasSpecialCharacter": "Mã nhóm đại lý không thể chứa khoảng trắng hoặc kí tự Tiếng Việt"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "ParentId": {
+      "ParentNotExisted": "Nhóm đại lý cha không tồn tại"
+    }
+  }
+}

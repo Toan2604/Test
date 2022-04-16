@@ -1,0 +1,61 @@
+﻿{
+  "DirectSalesOrder": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "ContentEmpty": "Chưa thêm sản phẩm"
+    },
+    "BuyerStore": {
+        "BuyerStoreNotExisted": "Đại lý mua không tồn tại",
+        "BuyerStoreEmpty": "Chưa chọn đại lý mua",
+        "BuyerStoreNotInERouteScope": "Đại lý mua không thuộc phạm vi đi tuyến của nhân viên kinh doanh",
+        "DraftStoreNotHavePermission":  "Đại lý dự thảo không được phép tạo đơn hàng"
+    },
+    "SaleEmployee": {
+      "SaleEmployeeNotExisted": "Nhân viên kinh doanh không tồn tại",
+      "SaleEmployeeEmpty": "Chưa chọn nhân viên kinh doanh",
+      "SaleEmployeeNotInOrg": "Nhân viên kinh doanh không thuộc đơn vị quản lý hiện tại"
+    },
+    "OrderDate": {
+      "OrderDateEmpty": "Chưa nhập ngày đặt hàng"
+    },
+    "DeliveryDate": {
+      "DeliveryDateInvalid": "Ngày giao hàng không hợp lệ"
+    },
+    "EditedPriceStatus": {
+      "EditedPriceStatusNotExisted": "Trạng thái sửa giá không tồn tại"
+    },
+    "DirectSalesOrderContent": {
+      "Item": {
+        "ItemNotExisted": "Phiên bản sản phẩm không tồn tại"
+      },
+      "Quantity": {
+        "QuantityEmpty": "Chưa nhập số lượng",
+        "QuantityInvalid": "Số lượng không hợp lệ"
+      },
+      "UnitOfMeasure": {
+        "UnitOfMeasureNotExisted": "Đơn vị tính không tồn tại",
+        "UnitOfMeasureEmpty": "Chưa chọn đơn vị tính"
+      },
+      "SalePrice": {
+        "PriceOutOfRange": "Giá tiền ngoài khoảng cho phép"
+      }
+    },
+    "DirectSalesOrderPromotion": {
+      "UnitOfMeasure": {
+        "UnitOfMeasureNotExisted": "Đơn vị tính không tồn tại",
+        "UnitOfMeasureEmpty": "Chưa chọn đơn vị tính"
+      },
+      "Quantity": {
+        "QuantityEmpty": "Chưa nhập số lượng",
+        "QuantityInvalid": "Số lượng không hợp lệ"
+      }
+    },
+    "PromotionCode": {
+      "PromotionCodeNotExisted": "Mã giảm giá không tồn tại hoặc không thoả mã điều kiện áp dụng",
+      "PromotionCodeHasUsed": "Mã giảm giá đã hết lượt sử dụng",
+      "OrganizationInvalid": "Mã giảm giá không áp dụng cho đơn vị của đại lý này",
+      "StoreInvalid": "Mã giảm giá không áp dụng cho đại lý này",
+      "ItemInvalid": "Không có sản phẩm được giảm giá"
+    }
+  }
+}

@@ -1,0 +1,82 @@
+﻿{
+  "Product": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "ProductInUsed": "Không thể sửa mã và tên sản phẩm khi đã được sử dụng"
+    },
+    "Code": {
+      "CodeExisted": "Mã sản phẩm đã tồn tại",
+      "CodeEmpty": "Chưa nhập mã sản phẩm",
+      "CodeOverLength": "Mã sản phẩm quá dài",
+      "CodeHasSpecialCharacter": "Mã sản phẩm không thể chứa khoảng trắng hoặc kí tự Tiếng Việt"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên sản phẩm",
+      "NameOverLength": "Tên sản phẩm quá dài",
+      "NameExisted": "Tên sản phẩm đã tồn tại"
+    },
+    "Category": {
+      "CategoryEmpty": "Chưa chọn danh mục sản phẩm",
+      "CategoryNotExisted": "Danh mục sản phẩm không tồn tại"
+    },
+    "ProductType": {
+      "ProductTypeEmpty": "Chưa chọn loại sản phẩm",
+      "ProductTypeNotExisted": "Loại sản phẩm không tồn tại"
+    },
+    "Supplier": {
+      "SupplierNotExisted": "Nhà cung cấp không tồn tại"
+    },
+    "Brand": {
+      "BrandNotExisted": "Nhãn hiệu không tồn tại"
+    },
+    "TaxType": {
+      "TaxTypeEmpty": "Chưa chọn thuế",
+      "TaxTypeNotExisted": "Thuế không tồn tại"
+    },
+    "UnitOfMeasure": {
+      "UnitOfMeasureNotExisted": "Đơn vị tính không tồn tại",
+      "UnitOfMeasureEmpty": "Chưa chọn đơn vị tính "
+    },
+    "UnitOfMeasureGrouping": {
+      "UnitOfMeasureGroupingNotExisted": "Nhóm đơn vị chuyển đổi không tồn tại",
+      "UnitOfMeasureGroupingInvalid": "Nhóm đơn vị chuyển đổi không hợp lệ với đơn vị tính"
+    },
+    "SalePrice": {
+      "SalePriceInvalid": "Giá bán không hợp lệ",
+      "SalePriceEmpty": "Chưa nhập giá bán"
+    },
+    "RetailPrice": {
+      "RetailPriceInvalid": "Giá bán lẻ đề xuất không hợp lệ"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "ERPCode": {
+      "ERPCodeHasSpecialCharacter": "Mã ERP chứa kí tự không hợp lệ"
+    },
+    "ScanCode": {
+      "ScanCodeHasSpecialCharacter": "Mã nhận diện chứa kí tự không hợp lệ"
+    },
+    "VariationGroupings": {
+      "VariationGroupingsEmpty": "Chưa tạo thuộc tính cho phiên bản của sản phẩm",
+      "Variation": {
+        "Code": {
+          "CodeHasSpecialCharacter": "Mã giá trị chứa kí tự đặc biệt"
+        }
+      }
+    },
+    "VariationGrouping": {
+      "Variations": {
+        "VariationsEmpty": "Chưa nhập giá trị cho thuộc tính"
+      },
+      "Variation": {
+        "Code": {
+          "CodeHasSpecialCharacter": "Mã giá trị chứa kí tự đặc biệt"
+        }
+      }
+    },
+    "Items": {
+      "ItemsEmpty": "Chưa tạo phiên bản cho sản phẩm"
+    }
+  }
+}

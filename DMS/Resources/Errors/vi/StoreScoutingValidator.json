@@ -1,0 +1,55 @@
+﻿{
+  "StoreScouting": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Mã chưa điền",
+      "CodeOverLength": "Mã dài quá 500 ký tự"
+    },
+    "Name": {
+      "NameEmpty": "Tên chưa điền",
+      "NameOverLength": "Tên dài quá 500 ký tự"
+    },
+    "OwnerPhone": {
+      "OwnerPhoneEmpty": "Số điện thoại chưa điền",
+      "OwnerPhoneOverLength": "Số điện thoại quá 255 ký tự",
+      "OwnerPhoneInUsed": "Số điện thoại đã được sử dụng"
+    },
+    "Address": {
+      "AddressEmpty": "Địa chỉ chưa điền",
+      "AddressOverLength": "Địa chỉ dài quá 3000 ký tự"
+    },
+    "ProvinceId": {
+      "ProvinceNotExisted": "Tỉnh/Thành không tồn tại"
+    },
+    "DistrictId": {
+      "DistrictNotExisted": "Quận/Huyện không tồn tại"
+    },
+    "WardId": {
+      "WardNotExisted": "Phường/Xã không tồn tại"
+    },
+    "StoreScoutingStatus": {
+      "StoreScoutingHasOpened": "Yêu cầu cắm cờ đã được mở",
+      "StoreScoutingHasRejected": "Yêu cầu cắm cờ đã bị từ chối",
+      "StoreScoutingStatusNotExisted": "Chưa nhập trạng thái hoặc trạng thái không tồn tại"
+    },
+    "Longitude": {
+      "LongitudeEmpty": "Chưa nhập kinh độ",
+      "LongitudeInvalid": "Kinh độ không hợp lệ"
+    },
+    "Latitude": {
+      "LatitudeEmpty": "Chưa nhập vĩ độ",
+      "LatitudeInvalid": "Vĩ độ không hợp lệ"
+    },
+    "StoreScoutingType": {
+      "StoreScoutingTypeNotExisted": "Chưa nhập loại đại lý cắm cờ hoặc loại đại lý cắm cờ không tồn tại"
+    },
+    "Organization": {
+      "OrganizationNotExisted": "Chưa nhập đơn vị tổ chức hoặc đơn vị tổ chức không tồn tại"
+    },
+    "Creator": {
+      "CreatorNotExisted": "Chưa nhập nhân viên kinh doanh hoặc nhân viên kinh doanh không tồn tại"
+    }
+  }
+}

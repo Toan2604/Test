@@ -1,0 +1,34 @@
+﻿{
+  "Supplier": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "SupplierInUsed": "Nhà cung cấp đã được sử dụng"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên nhà cung cấp",
+      "NameOverLength": "Tên nhà cung cấp quá dài",
+      "NameExisted": "Tên nhà cung cấp đã tồn tại"
+    },
+    "Code": {
+      "CodeExisted": "Mã nhà cung cấp đã tồn tại",
+      "CodeEmpty": "Chưa nhập mã nhà cung cấp",
+      "CodeOverLength": "Mã nhà cung cấp quá dài",
+      "CodeHasSpecialCharacter": "Mã nhà cung cấp chứa kí tự đặc biệt"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    },
+    "District": {
+      "DistrictNotExisted": "Quận/ Huyện không tồn tại"
+    },
+    "Province": {
+      "ProvinceNotExisted": "Tỉnh/Thành phố không tồn tại"
+    },
+    "Ward": {
+      "WardNotExisted": "Xã không tồn tại"
+    },
+    "PersonInChargeId": {
+      "PersonInChargeNotExisted": "Nhân viên phụ trách chưa tồn tại"
+    }
+  }
+}

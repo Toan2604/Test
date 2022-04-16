@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<IsPackable>false</IsPackable>
+	</PropertyGroup>
+	<ItemGroup>
+		<None Remove="appsettings.Tests.json" />
+	</ItemGroup>
+	<ItemGroup>
+		<Content Include="appsettings.Tests.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+			<ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+			<CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+		</Content>
+	</ItemGroup>
+	<ItemGroup>
+		<PackageReference Include="LightBDD.NUnit3" Version="3.2.0" />
+		<PackageReference Include="Microsoft.Data.Sqlite.Core" Version="3.1.14" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.14" />
+		<PackageReference Include="NUnit" Version="3.12.0" />
+		<PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+		<PackageReference Include="TrueSight" Version="0.5.3" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\DMS.ABE\DMS.ABE.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+	  <None Update="Rpc\web\direct-sales-order\payload\create_missingfield_failed.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Rpc\web\direct-sales-order\payload\list_order_by_total.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Rpc\web\direct-sales-order\payload\reject_success.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Rpc\web\direct-sales-order\payload\store_pending.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Rpc\web\direct-sales-order\payload\approve_success.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Rpc\web\direct-sales-order\payload\list_order_by_date.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Rpc\web\direct-sales-order\payload\update.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	  <None Update="Rpc\web\direct-sales-order\payload\create.json">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+</Project>

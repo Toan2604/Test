@@ -1,0 +1,42 @@
+﻿{
+  "Role": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập mã vai trò",
+      "CodeOverLength": "Mã vai trò quá dài",
+      "CodeExisted": "Mã vai trò đã được sử dụng",
+      "CodeHasSpecialCharacter": "Mã vai trò không thể chứa khoảng trắng hoặc kí tự Tiếng Việt"
+    },
+    "Field": {
+      "Name": {
+        "FieldNotExisted": "Trường dự liệu không tồn tại"
+      }
+    },
+    "Menu": {
+      "Code": {
+        "CodeNotExisted": "Mã Menu không tồn tại"
+      }
+    },
+    "Permission": {
+      "Code": {
+        "CodeNotExisted": "Mã quyền không tồn tại"
+      }
+    },
+    "Name": {
+      "NameExisted": "Tên vai trò đã tồn tại",
+      "NameEmpty": "Chưa nhập tên vai trò",
+      "NameOverLength": "Tên vai trò quá dài"
+    },
+    "Status": {
+      "StatusNotExisted": "Chưa chọn trạng thái"
+    },
+    "Page": {
+      "PageNotExisted": "Trạng không tồn tại"
+    },
+    "AppUser": {
+      "AppUserNotExisted": "Chưa chọn người dùng"
+    }
+  }
+}

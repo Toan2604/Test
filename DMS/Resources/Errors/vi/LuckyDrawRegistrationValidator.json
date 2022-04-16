@@ -1,0 +1,38 @@
+{
+  "LuckyDrawRegistration": {
+    "Id": {
+    },
+    "LuckyDrawId": {
+    },
+    "AppUserId": {
+    },
+    "StoreId": {
+    },
+    "Revenue": {
+        "RevenueInvalid": "Doanh thu phải lớn hơn 0",
+        "RevenueInsufficient":  "Doanh thu không đủ để quay thưởng"
+    },
+    "TurnCounter": {
+        "PrizesInsufficient":  "Số lượng giải thưởng không đủ"
+    },
+    "IsDrawnByStore": {
+    },
+    "Time": {
+      "TimeEmpty": "Chưa nhập thời gian đăng ký"
+    },
+    "AppUser": {
+      "AppUserEmpty": "Chưa chọn nhân viên quay thưởng",
+      "AppUserNotExisted": "Nhân viên quay thưởng không tồn tại"
+    },
+    "LuckyDraw": {
+      "LuckyDrawEmpty": "Chưa chọn chương trình quay thưởng",
+      "LuckyDrawNotExisted": "Chương trình quay thưởng không tồn tại"
+    },
+    "Store": {
+      "StoreEmpty": "Chưa chọn đại lý quay thưởng",
+      "StoreNotExisted": "Đại lý quay thưởng không tồn tại",
+      "StoreNotInScoped": "Đại lý không thuộc phạm vi quay thưởng",
+      "StoreUserNotExisted":  "Đại lý chưa được mở tài khoản"
+    }
+  }
+}

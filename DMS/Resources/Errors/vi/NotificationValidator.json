@@ -1,0 +1,14 @@
+﻿{
+  "Notification": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Title": {
+      "TitleEmpty": "Chưa nhập tiêu đề",
+      "TitleOverLength": "Tiêu đề quá dài"
+    },
+    "Organization": {
+      "OrganizationNotExisted": "Đơn vị tổ chức không tồn tại"
+    }
+  }
+}

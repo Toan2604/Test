@@ -1,0 +1,22 @@
+﻿{
+  "ERouteChangeRequest": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "ERoute": {
+      "ERouteNotExisted": "Tuyến không tồn tại"
+    },
+    "RequestState": {
+      "RequestStateIsNotApproved": "Tuyến chưa được phê duyệt",
+      "ERouteChangeRequestInUsed": "Tuyến thay đổi đã được sử dụng"
+    },
+    "ERouteChangeRequestContent": {
+      "Store": {
+        "StoreEmpty": "Chưa chọn đại lý"
+      }
+    },
+    "ERouteChangeRequestContents": {
+      "ERouteChangeRequestContentsEmpty": "Chưa tạo nội dung cho tuyến thay đổi"
+    }
+  }
+}

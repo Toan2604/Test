@@ -1,0 +1,15 @@
+﻿{
+  "District": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập Code",
+      "CodeExisted": "Code đã tồn tại"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên quận, huyện",
+      "NameOverLength": "Tên quận, huyện quá dài"
+    }
+  }
+}

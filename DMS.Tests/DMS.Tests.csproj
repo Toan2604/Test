@@ -1,0 +1,131 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="RpcOld\store-balance\payload\**" />
+    <EmbeddedResource Remove="RpcOld\store-balance\payload\**" />
+    <None Remove="RpcOld\store-balance\payload\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="appsettings.Tests.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="appsettings.Tests.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="LightBDD.NUnit3" Version="3.2.0" />
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="3.1.14" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.14" />
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+    <PackageReference Include="TrueSight" Version="0.6.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DMS\DMS.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\brand-statistics-nofilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\brand-statistics-orderdate.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\brand-statistics-withfilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\brand-unstatistics-nofilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\brand-unstatistics-orderdate.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\brand-unstatistics-withfilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\estimated-revenue-nofilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\estimated-revenue-orderdate.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\estimated-revenue-withfilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\product-grouping-nofilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\product-grouping-number-nofilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\product-grouping-number-orderdate.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\product-grouping-number-withfilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\product-grouping-orderdate.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\product-grouping-withfilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\store-coverage-nofilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\store-coverage-orderdate.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\store-coverage-withfilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\top-brand-nofilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\top-brand-orderdate.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\dashboard\dashboard-store-information\result-json\top-brand-withfilter.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\Database_20210806.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\Datawarehouse_20210806.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\Database_20210806.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\Datawarehouse_20210806.xlsx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\general-mobile\payload\create.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\general-mobile\payload\delete.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\general-mobile\payload\update.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\general-mobile\payload\update_used.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\kpi\kpi-general\KPIGeneral_Payload.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\kpi\kpi-item\KpiItem_Payload.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Rpc\kpi\kpi-product-grouping\KpiProductGrouping_Payload.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>

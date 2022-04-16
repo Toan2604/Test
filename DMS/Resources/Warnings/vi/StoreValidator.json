@@ -1,0 +1,11 @@
+﻿{
+  "Name": {
+    "Duplicated": "Trùng tên"
+  },
+  "Address": {
+    "Duplicated": "Trùng địa chỉ"
+  },
+  "Telephone": {
+    "Duplicated": "Trùng số điện thoại"
+  }
+}

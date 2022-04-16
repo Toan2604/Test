@@ -1,0 +1,20 @@
+﻿{
+  "StoreChecking": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Store": {
+      "StoreNotExisted": "Đại lý không tồn tại",
+      "DistanceOutOfRange": "Khoảng cách ngoài phạm vi"
+    },
+    "CheckOutAt": {
+      "HasCheckOut": "Đại lý đã viếng thăm"
+    },
+    "CheckInAt": {
+      "HasCheckin": "Đại lý đã viếng thăm"
+    },
+    "Latitude": {
+      "LocationEmpty": "Không lấy được vị trí hiện tại"
+    }
+  }
+}

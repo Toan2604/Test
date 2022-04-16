@@ -1,0 +1,22 @@
+{
+  "LuckyDrawStructure": {
+    "Id": {
+    },
+    "LuckyDrawId": {
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên",
+      "NameOverLength": "Tên quá dài"
+    },
+    "Value": {
+      "ValueEmpty": "Chưa nhập giá trị",
+      "ValueOverLength": "Giá trị quá dài"
+    },
+    "Quantity": {
+    },
+    "LuckyDraw": {
+      "LuckyDrawEmpty": "Chưa chọn",
+      "LuckyDrawNotExisted": "Giải thưởng không tồn tại"
+    }
+  }
+}

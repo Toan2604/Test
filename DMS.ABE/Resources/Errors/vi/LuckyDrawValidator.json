@@ -1,0 +1,9 @@
+{
+  "LuckyDraw": {
+    "Id": {
+      "PrizeOver": "Giải thưởng của chương trình đã được trao hết",
+      "StoreNotRegistered": "Đại lý không có lượt quay cho chương trình này",
+      "StoreOverTurn":  "Đại lý đã hết lượt quay"
+    }
+  }
+}

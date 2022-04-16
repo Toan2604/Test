@@ -1,0 +1,22 @@
+﻿{
+  "StoreScoutingType": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "StoreScoutingTypeInUsed": "Loại đại lý cắm cờ đã được sử dụng"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên loại đại lý cắm cờ",
+      "NameOverLength": "Tên loại đại lý cắm cờ quá dài",
+      "NameExisted": "Tên loại đại lý cắm cờ đã tồn tại"
+    },
+    "Code": {
+      "CodeExisted": "Mã loại đại lý cắm cờ đã tồn tại",
+      "CodeEmpty": "Chưa nhập mã loại đại lý cắm cờ",
+      "CodeOverLength": "Mã loại đại lý cắm cờ quá dài",
+      "CodeHasSpecialCharacter": "Mã loại đại lý cắm cờ không thể chứa khoảng trắng hoặc kí tự Tiếng Việt"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    }
+  }
+}

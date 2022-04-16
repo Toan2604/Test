@@ -1,0 +1,40 @@
+﻿{
+  "Survey": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "SurveyInUsed": "Bản khảo sát đã có câu trả lời"
+    },
+    "Title": {
+      "TitleEmpty": "Chưa nhập tiêu đề"
+    },
+    "StartAt": {
+      "StartDateEmpty": "Chưa nhập ngày bắt đầu"
+    },
+    "EndAt": {
+      "EndDateWrong": "Ngày kết thúc không hợp lệ"
+    },
+    "SurveyQuestion": {
+      "Content": {
+        "ContentEmpty": "Chưa nhập nội dung câu hỏi"
+      },
+      "SurveyOption": {
+        "Content": {
+          "ContentSurveyOptionsEmpty": "Chưa nhập nội dung cho lựa chọn"
+        }
+      },
+      "SurveyOptions": {
+        "SurveyOptionsEmpty": "Chưa tạo các lựa chọn cho câu hỏi"
+      },
+      "IsMandatory": {
+        "QuestionIsMandatory": "Câu hỏi này bắt buộc trả lời"
+      }
+    },
+    "SurveyQuestions": {
+      "SurveyQuestionsEmpty": "Chưa tạo câu hỏi"
+    },
+    "Organization": {
+      "OrganizationEmpty": "Đơn vị quản lý chưa được chọn",
+      "OrganizationNotExisted": "Đơn vị quản lý không tồn tại"
+    }
+  }
+}

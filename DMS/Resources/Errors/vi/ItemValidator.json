@@ -1,0 +1,22 @@
+﻿{
+  "Item": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên",
+      "NameOverLength": "Tên quá dài"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập mã phiên bản sản phẩm",
+      "CodeOverLength": "Mã phiên bản sản phẩm quá dài"
+    },
+    "ScanCoded": {
+      "ScanCodeEmpty": "Chưa nhập mã nhận diện",
+      "ScanCodeOverLength": "Mã nhận diện quá dài"
+    },
+    "ProductId": {
+      "ProductNotExisted": "Sản phẩm không tồn tại"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+﻿[
+  {
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "estimatedRevenueId": 1,
+    "estimatedRevenueName": "< 20 triệu",
+    "value": 12,
+    "total": 49,
+    "rate": 24.49,
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": []
+  },
+  {
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "estimatedRevenueId": 2,
+    "estimatedRevenueName": "20 triệu -> 50 triệu",
+    "value": 9,
+    "total": 49,
+    "rate": 18.37,
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": []
+  },
+  {
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "estimatedRevenueId": 3,
+    "estimatedRevenueName": "50 triệu -> 100 triệu",
+    "value": 8,
+    "total": 49,
+    "rate": 16.33,
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": []
+  },
+  {
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "estimatedRevenueId": 7,
+    "estimatedRevenueName": "> 500 triệu",
+    "value": 6,
+    "total": 49,
+    "rate": 12.24,
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": []
+  },
+  {
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "estimatedRevenueId": 6,
+    "estimatedRevenueName": "300 triệu -> 500 triệu",
+    "value": 5,
+    "total": 49,
+    "rate": 10.2,
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": []
+  },
+  {
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "estimatedRevenueId": 4,
+    "estimatedRevenueName": "100 triệu -> 200 triệu",
+    "value": 5,
+    "total": 49,
+    "rate": 10.2,
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": []
+  },
+  {
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "estimatedRevenueId": 5,
+    "estimatedRevenueName": "200 triệu -> 300 triệu",
+    "value": 4,
+    "total": 49,
+    "rate": 8.16,
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": []
+  }
+]

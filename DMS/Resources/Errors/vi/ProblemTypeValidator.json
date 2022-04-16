@@ -1,0 +1,22 @@
+﻿{
+  "ProblemType": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "ProblemTypeInUsed": "Loại vấn đề đã được sử dụng"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên loại vấn đề",
+      "NameOverLength": "Tên loại vấn đề quá dài",
+      "NameExisted": "Tên loại vấn đề đã tồn tại"
+    },
+    "Code": {
+      "CodeExisted": "Mã loại vấn đề đã tồn tại",
+      "CodeEmpty": "Chưa nhập mã loại vấn đề",
+      "CodeOverLength": "Mã loại vấn đề quá dài",
+      "CodeHasSpecialCharacter": "Mã loại vấn đề không thể chứa khoảng trắng hoặc kí tự Tiếng Việt"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    }
+  }
+}

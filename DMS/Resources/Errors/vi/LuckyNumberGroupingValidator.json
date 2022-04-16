@@ -1,0 +1,32 @@
+{
+  "LuckyNumberGrouping": {
+    "Id": {
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập @Code",
+      "CodeOverLength": "Code quá dài"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập @Name",
+      "NameOverLength": "Name quá dài"
+    },
+    "OrganizationId": {
+    },
+    "StatusId": {
+    },
+    "StartDate": {
+      "StartDateEmpty": "Chưa nhập @StartDate"
+    },
+    "EndDate": {
+      "EndDateEmpty": "Chưa nhập @EndDate"
+    },
+    "Organization": {
+      "OrganizationEmpty": "Chưa chọn @Organization",
+      "OrganizationNotExisted": "@Organization không tồn tại"
+    },
+    "Status": {
+      "StatusEmpty": "Chưa chọn @Status",
+      "StatusNotExisted": "@Status không tồn tại"
+    }
+  }
+}

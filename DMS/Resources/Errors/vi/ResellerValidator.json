@@ -1,0 +1,65 @@
+﻿{
+  "Reseller": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên",
+      "NameOverLength": "Tên quá dài",
+      "NameExisted": "Tên đã tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập Code",
+      "CodeOverLength": "Code quá dài",
+      "CodeHasSpecialCharacter": "Code chứa kí tự đặc biệt"
+    },
+    "Address": {
+      "AddressOverLength": "Địa chỉ quá dài"
+    },
+    "Email": {
+      "EmailOverLength": "Email quá dài"
+    },
+    "TaxCode": {
+      "TaxCodeOverLength": "Mã số thuế quá dài"
+    },
+    "CompanyName": {
+      "CompanyNameOverLength": "Tên công ty quá dài"
+    },
+    "Phone": {
+      "PhoneEmpty": "Chưa nhập số điện thoại",
+      "PhoneOverLength": "Tên số điện thoại quá dài"
+    },
+    "DeputyName": {
+      "DeputyNameOverLength": "Tên người đại diện quá dài"
+    },
+    "Status": {
+      "StatusNotExisted": "Chưa chọn trạng thái"
+    },
+    "Description": {
+      "DescriptionOverLength": "Mô tả quá dài"
+    },
+    "Staff": {
+      "StaffNotExisted": "Nhân viên không tồn tại",
+      "StaffEmpty": "Chưa chọn nhân viên"
+    },
+    "Organization": {
+      "OrganizationNotExisted": "Đơn vị tổ chức không tồn tại",
+      "OrganizationEmpty": "Chưa chọn đơn vị tổ chức"
+    },
+    "ResellerType": {
+      "ResellerTypeNotExisted": "Loại khách hàng không tồn tại",
+      "ResellerTypeEmpty": "Chưa chọn loại khách hàng"
+    },
+    "Item": {
+      "Code": {
+        "CodeExisted": "Code của phiên bản sản phẩm đã tồn tại"
+      },
+      "Name": {
+        "NameExisted": "Tên của phiên bản sản phẩm đã tồn tại"
+      },
+      "Id": {
+        "ItemInUsed": "Phiên bản sản phẩm đang được sử dụng"
+      }
+    }
+  }
+}

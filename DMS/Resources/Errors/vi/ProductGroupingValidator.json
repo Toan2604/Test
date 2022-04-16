@@ -1,0 +1,22 @@
+﻿{
+  "ProductGrouping": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "ProductGroupingInUsed": "Nhóm sản phẩm đã được sử dụng"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên nhóm sản phẩm",
+      "NameOverLength": "Tên nhóm sản phẩm quá dài",
+      "NameExisted": "Tên nhóm sản phẩm đã tồn tại"
+    },
+    "Code": {
+      "CodeExisted": "Mã nhóm sản phẩm đã tồn tại",
+      "CodeEmpty": "Chưa nhập mã nhóm sản phẩm",
+      "CodeOverLength": "Mã nhóm sản phẩm quá dài",
+      "CodeHasSpecialCharacter": "Mã nhóm sản phẩm không thể chứa khoảng trắng hoặc kí tự Tiếng Việt"
+    },
+    "ParentId": {
+      "ParentNotExisted": "Nhóm sản phẩm cấp cha không tồn tại"
+    }
+  }
+}

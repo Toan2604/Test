@@ -1,0 +1,22 @@
+﻿{
+  "ProductType": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại",
+      "ProductTypeInUsed": "Loại sản phẩm đã được sử dụng"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên loại sản phẩm",
+      "NameOverLength": "Tên loại sản phẩm quá dài",
+      "NameExisted": "Tên loại sản phẩm đã tồn tại"
+    },
+    "Code": {
+      "CodeExisted": "Mã loại sản phẩm đã tồn tại",
+      "CodeEmpty": "Chưa nhập mã loại sản phẩm",
+      "CodeOverLength": "Mã loại sản phẩm quá dài",
+      "CodeHasSpecialCharacter": "Mã loại sản phẩm không thể chứa khoảng trắng hoặc kí tự Tiếng Việt"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    }
+  }
+}

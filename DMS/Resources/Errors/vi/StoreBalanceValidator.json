@@ -1,0 +1,27 @@
+﻿{
+  "StoreBalance": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Store": {
+      "StoreEmpty": "Chưa nhập tên đại lý",
+      "UpdateNotAllowed": "Tiêu chí không được phép sửa",
+      "StoreNotExisted": "Đại lý không tồn tại",
+      "StoreBalanceExisted": "Công nợ của đại lý với đơn vị được chọn đã tồn tại"
+    },
+    "DebitAmount": {
+      "DebitAmountInvalid": "Dư nợ không hợp lệ",
+      "DebitAmountEmpty": "Chưa nhập dư nợ"
+    },
+    "CreditAmount": {
+      "CreditAmountInvalid": "Dư có không hợp lệ",
+      "CreditAmountEmpty": "Chưa nhập dư có"
+    },
+    "Organization": {
+      "OrganizationEmpty": "Chưa chọn đơn vị chứa công nợ",
+      "UpdateNotAllowed": "Tiêu chí không được phép sửa",
+      "OrganizationNotExisted": "Đơn vị quản lý không tồn tại",
+      "StoreBalanceExisted": "Công nợ của đại lý với đơn vị được chọn đã tồn tại"
+    }
+  }
+}

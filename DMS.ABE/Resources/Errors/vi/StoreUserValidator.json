@@ -1,0 +1,28 @@
+﻿{
+  "StoreUser": {
+    "Username": {
+      "UsernameNotExisted": "Tên đăng nhập không tồn tại!"
+    },
+    "Status": {
+      "StoreUserLocked": "Tài khoản này đã bị khóa!"
+    },
+    "Password": {
+      "PasswordNotMatch": "Mật khẩu không đúng!"
+    },
+    "Id": {
+      "IdNotExisted": "Id không tồn tại!",
+      "EmailEmpty": "Không có địa chỉ Email!"
+    },
+    "Store": {
+      "StoreEmpty": "Cửa hàng trống!",
+      "StoreNotExisted": "Cửa hàng không tồn tại!",
+      "StoreUserExisted": "Cửa hàng đã tồn tại!"
+    },
+    "OtpCode": {
+      "OtpCodeInvalid": "Mã OTP không hợp lệ!"
+    },
+    "OtpExpired": {
+      "OtpExpired": "OTP đã hết hạn!"
+    }
+  }
+}

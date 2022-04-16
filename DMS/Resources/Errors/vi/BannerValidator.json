@@ -1,0 +1,23 @@
+﻿{
+  "Banner": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Title": {
+      "TitleEmpty": "Chưa nhập tiêu đề",
+      "TitleOverLength": "Tiêu đề quá dài"
+    },
+    "Image": {
+      "ImageEmpty": "Chưa chọn ảnh"
+    },
+    "Content": {
+      "ContentOverLength": "Nội dung quá dài"
+    },
+    "Priority": {
+      "PriorityInvalid": "Chưa nhập thứ tự ưu tiên"
+    },
+    "Status": {
+      "StatusNotExisted": "Trạng thái không tồn tại"
+    }
+  }
+}

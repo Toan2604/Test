@@ -1,0 +1,15 @@
+﻿{
+  "Ward": {
+    "Id": {
+      "IdNotExisted": "Id không tồn tại"
+    },
+    "Code": {
+      "CodeEmpty": "Chưa nhập Code",
+      "CodeExisted": "Code của phiên bản sản phẩm đã tồn tại"
+    },
+    "Name": {
+      "NameEmpty": "Chưa nhập tên",
+      "NameOverLength": "Tên quá dài"
+    }
+  }
+}

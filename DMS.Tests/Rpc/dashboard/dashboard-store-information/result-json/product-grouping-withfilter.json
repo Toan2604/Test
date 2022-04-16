@@ -1,0 +1,67 @@
+﻿[
+  {
+    "informations": null,
+    "warnings": null,
+    "errors": null,
+    "total": 2,
+    "brandId": 51,
+    "brandName": "Comet",
+    "productGroupings": [
+      {
+        "informations": null,
+        "warnings": null,
+        "errors": null,
+        "productGroupingId": 10288,
+        "productGroupingName": "Phích hoàn chỉnh",
+        "total": 2,
+        "value": 1,
+        "rate": 50,
+        "generalInformations": [],
+        "generalWarnings": [],
+        "generalErrors": []
+      },
+      {
+        "informations": null,
+        "warnings": null,
+        "errors": null,
+        "productGroupingId": 10289,
+        "productGroupingName": "Ruột Phích",
+        "total": 2,
+        "value": 1,
+        "rate": 50,
+        "generalInformations": [],
+        "generalWarnings": [],
+        "generalErrors": []
+      },
+      {
+        "informations": null,
+        "warnings": null,
+        "errors": null,
+        "productGroupingId": 10323,
+        "productGroupingName": "LED ốp trần",
+        "total": 2,
+        "value": 1,
+        "rate": 50,
+        "generalInformations": [],
+        "generalWarnings": [],
+        "generalErrors": []
+      },
+      {
+        "informations": null,
+        "warnings": null,
+        "errors": null,
+        "productGroupingId": 10328,
+        "productGroupingName": "LED chiếu sáng đường",
+        "total": 2,
+        "value": 1,
+        "rate": 50,
+        "generalInformations": [],
+        "generalWarnings": [],
+        "generalErrors": []
+      }
+    ],
+    "generalInformations": [],
+    "generalWarnings": [],
+    "generalErrors": []
+  }
+]
